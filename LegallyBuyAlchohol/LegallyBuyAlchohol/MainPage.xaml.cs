@@ -14,5 +14,14 @@ namespace LegallyBuyAlchohol
         {
             InitializeComponent();
         }
+
+        void Get_years(object sender, System.EventArgs e)
+        {
+            var birthday = BirthDate.Date;
+            var today = DateTime.Now;
+            var yearsold = birthday.Subtract(today);
+
+            year.Text += yearsold; 
+        }
     }
 }

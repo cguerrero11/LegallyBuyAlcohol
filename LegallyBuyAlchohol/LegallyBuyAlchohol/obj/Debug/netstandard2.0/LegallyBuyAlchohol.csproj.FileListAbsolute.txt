@@ -1,0 +1,14 @@
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.csprojAssemblyReference.cache
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.AssemblyInfoInputs.cache
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.AssemblyInfo.cs
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.csproj.CoreCompileInputs.cache
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.dll
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\ref\LegallyBuyAlchohol.dll
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\LegallyBuyAlchohol.pdb
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\bin\Debug\netstandard2.0\LegallyBuyAlchohol.deps.json
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\bin\Debug\netstandard2.0\LegallyBuyAlchohol.dll
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\bin\Debug\netstandard2.0\ref\LegallyBuyAlchohol.dll
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\bin\Debug\netstandard2.0\LegallyBuyAlchohol.pdb
+C:\Users\coolc\source\repos\LegallyBuyAlchohol\LegallyBuyAlchohol\LegallyBuyAlchohol\obj\Debug\netstandard2.0\XamlC.stamp
