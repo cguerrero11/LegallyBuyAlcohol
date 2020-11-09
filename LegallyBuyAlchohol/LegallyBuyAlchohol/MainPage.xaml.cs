@@ -19,9 +19,21 @@ namespace LegallyBuyAlchohol
         {
             var birthday = BirthDate.Date;
             var today = DateTime.Now;
-            var yearsold = birthday.Subtract(today);
 
-            year.Text += yearsold; 
+            int age = today.Year - birthday.Year;
+
+            string years;
+
+            if (age >= 21)
+            {
+                year.Text = "You can already buy alcohol!";
+            }
+            else {
+                age = (age * -1) + 21;
+
+                years = age.ToString();
+                year.Text = "You can buy alcohol in " + years +" year(s).";
+            }
         }
     }
 }

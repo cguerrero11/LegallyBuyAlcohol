@@ -17,7 +17,8 @@
                     DateSelected="Get_years" 
                     MaximumDate="12/31/2015"/>
 
-        <Label Text="You'll be able to buy alcohol in " Padding="20,0,0,20" x:Name="year"/>
+        <!--<Label Text="{Binding Source={}, StringFormat='{0:MM d, yyyy}'}" Padding="20,0,0,20" x:Name="year"/>-->
+        <Label Text="You can buy alcohol in..." Padding="20,0,0,20" x:Name="year"/> 
 
     </StackLayout>
 
